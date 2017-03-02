@@ -1,0 +1,8 @@
+#+TITLE: Virtual Labs Integration Workshop Planning
+#+AUTHOR: VLEAD
+#+DATE: [2017-03-01 Wed]
+
+This respository contains the process, material,talks that needs to be
+used during a integration workshop( conducted for all the members of
+the consortium)
+
