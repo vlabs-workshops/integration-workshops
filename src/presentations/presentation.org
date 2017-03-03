@@ -1,0 +1,89 @@
+#+TITLE: Virtual-Labs College Cloud Edition Workshop
+#+AUTHOR: VLEAD, IIIT-Hyderabd
+#+DATE: [2017-03-03 Fri]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+SETUPFILE: ../org-templates/level-1.org
+#+options: ^:nil
+#+LATEX: Literal LaTeX code for export
+
+* Introduction
+  This document is about Virtual Labs College Cloud Edition. After the
+  presentation, we would be knowing clear understanding of CC Edition.
+
+  Document would be used by workshop/nodel/outreach coordinators.
+* Workshop Agenda
+** Day #1- Date: 2017-03-15
+   Today's Agenda
+   |------+-------+-------------------------------------------+------------------------|
+   | S.No |  Time | Topic                                     | Presenters             |
+   |------+-------+-------------------------------------------+------------------------|
+   |    / |     < | <                                         | <                      |
+   |    1 |  9:30 | Registration                              |                        |
+   |    2 | 10:00 | Welcome address /Introduction             | Prof.Venkatesh         |
+   |    3 | 10:30 | Introduction to College Cloud Edition     | Ashay                  |
+   |    4 | 11:15 | TEA-BREAK                                 |                        |
+   |    5 | 11:30 | Demo of College Cloud Edition             | Siva Shanker           |
+   |    6 | 13:00 | LUNCH                                     |                        |
+   |    7 | 14:00 | Training on Installation                  | Siva Shanker           |
+   |    7 | 15:00 | Using College Cloud Edition for Workshops | Siva Shanker           |
+   |    8 | 16:00 | TEA-BREAK                                 |                        |
+   |    9 | 16:15 | Workshop Process                          | Lalit and Ravi Shankar |
+   |------+-------+-------------------------------------------+------------------------|
+*** Introduction to College Cloud Edition
+**** What is College Cloud Edition?
+     Collge Cloud Edition is a HDD which contains courses/Labs.
+**** Why do we need College Cloud Edition?
+     Labs/courses that are there in the College Cloud Edition can be
+     accessed without the Internet Connection.
+**** Current Features of College Cloud Edition
+     - Serve 73 Labs to the lab users.
+     - College Cloud registration form
+     - Script for collecting analytics,feedback and EdX   user data
+       + Full data backup
+       + Date wise  backup
+     - Installation manual
+     - Integration of SyncThing in College Cloud
+*** Demo of College Cloud Edition
+    A short demo on accessing the lab as a student.
+    - Connect to College Cloud Edition
+    - Change DNS settings in =/etc/resolv.conf=
+    - Set =No Proxy= in browsers
+    - Visit https://vlabs.ac.in
+    - Register to https://vlabs.ac.in
+    - log on to https://vlabs.ac.in
+    - Enrol into a course
+    - Perform the experiment
+    - Submit the feedback
+*** Training on College Cloud Edition Installation.
+    - Installation manual
+      [[http://community.virtual-labs.ac.in/docs/college-cloud/installation-manual.html][Link to Installation Manual]]
+
+*** How to use College Cloud Edition for  workshops?    
+    - Workshop conducted by Workshop Coordinator
+      [[http://community.virtual-labs.ac.in/docs/college-cloud/installation-manual.html#org4b4bc6d][Procedure for Workshop/Nodel/Outreach coordinators]]
+
+    - Virtual Labs College Cloud Edition used by colleges as part of
+      their curriculum
+      [[http://community.virtual-labs.ac.in/docs/college-cloud/installation-manual.html#orge8f2a31][Procedure for College/Institute System Administrator]]
+
+** Day #2 - Date: 2017-03-16 
+  
+    |------+----------+-------------------------------------------------------------------+---------------------------|
+    | S.No | Time     | Topic                                                             | Presenters                |
+    |------+----------+-------------------------------------------------------------------+---------------------------|
+    |    / | <        | <                                                                 | <                         |
+    |    1 | 09:30    | Hands-on training on College Cloud Edition installation and usage | Ashay,Raghupathi ans Siva |
+    |    2 | 11:15    | TEA-BREAK                                                         |                           |
+    |    3 | 11:30    | Hands-on training on College Cloud Edition installation and usage | Ashay,Raghupathi ans Siva |
+    |    4 | 13:00 PM | LUNCH                                                             |                           |
+    |    5 | 14:00 PM | Hands-on training on College Cloud Edition installation and usage | Ashay,Raghupathi ans Siva |
+    |    6 | 16:00 PM | TEA-BREAK                                                         |                           |
+    |    7 | 16:15 PM | Workshop Expectations and Feedback                                | Mr.Ravi Shanker           |
+    |------+----------+-------------------------------------------------------------------+---------------------------|
+
+   
+
+
+
+

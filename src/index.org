@@ -1,7 +1,11 @@
 #+TITLE: Virtual Labs Integration Workshop Planning 
 #+AUTHOR: VLEAD
 #+DATE: [2017-03-01 Wed]
-
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+SETUPFILE: ./org-templates/level-0.org
+#+options: ^:nil
+#+LATEX: Literal LaTeX code for export
 
 * Introduction 
 This document details the process to be followed for conducting a
