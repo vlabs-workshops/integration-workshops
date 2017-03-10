@@ -26,10 +26,11 @@
    |    5 | 11:30 | Demo of College Cloud Edition             | Siva Shanker           |
    |    6 | 13:00 | LUNCH                                     |                        |
    |    7 | 14:00 | Training on Installation                  | Siva Shanker           |
-   |    7 | 15:00 | Using College Cloud Edition for Workshops | Siva Shanker           |
+   |    8 | 15:00 | Workshop Process                          | Lalit and Ravi Shankar |
    |    8 | 16:00 | TEA-BREAK                                 |                        |
-   |    9 | 16:15 | Workshop Process                          | Lalit and Ravi Shankar |
+   |    7 | 16:15 | Using College Cloud Edition for Workshops | Sripathi               |
    |------+-------+-------------------------------------------+------------------------|
+  
 *** Introduction to College Cloud Edition
 **** What is College Cloud Edition?
      Collge Cloud Edition is a HDD which contains courses/Labs.
@@ -46,26 +47,30 @@
      - Integration of SyncThing in College Cloud
 *** Demo of College Cloud Edition
     A short demo on accessing the lab as a student.
-    - Connect to College Cloud Edition
+    - Connect to College Cloud Edition (IP or domain name)
     - Change DNS settings in =/etc/resolv.conf=
     - Set =No Proxy= in browsers
     - Visit https://vlabs.ac.in
     - Register to https://vlabs.ac.in
     - log on to https://vlabs.ac.in
-    - Enrol into a course
-    - Perform the experiment
-    - Submit the feedback
+    - Enroll into a course (decide)
+    - Perform the experiment (decide)
+    - Submit the feedback (decide)
 *** Training on College Cloud Edition Installation.
     - Installation manual
       [[http://community.virtual-labs.ac.in/docs/college-cloud/installation-manual.html][Link to Installation Manual]]
-
+    - Must have it printed . Toggle must be avoided 
+      
 *** How to use College Cloud Edition for  workshops?    
     - Workshop conducted by Workshop Coordinator
       [[http://community.virtual-labs.ac.in/docs/college-cloud/installation-manual.html#org4b4bc6d][Procedure for Workshop/Nodel/Outreach coordinators]]
 
     - Virtual Labs College Cloud Edition used by colleges as part of
       their curriculum
-      [[http://community.virtual-labs.ac.in/docs/college-cloud/installation-manual.html#orge8f2a31][Procedure for College/Institute System Administrator]]
+      [[http://community.virtual-labs.ac.in/docs/college-cloud/installation-manual.html#orge8f2a31][Procedure for College/Institute System Administrator]] 
+
+Workshop process links -
+Mapping link to be given - to be taken from Ravi Kiran 
 
 ** Day #2 - Date: 2017-03-16 
   
