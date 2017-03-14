@@ -36,7 +36,6 @@
   - Each workshop participant to register for the workshop and mark
     attendance in the attedance sheet for both days (pre and post lunch).
 
-  
 * Welcome Address
 
 * Introduction to College Cloud 
@@ -72,17 +71,16 @@
 
 * Lunch break
 
-
 * Training on College Cloud Edition 
 
   + Installation Manual - http://community.virtual-labs.ac.in/docs/college-cloud/installation-manual.html
 
 * Workshop process 
   + https://github.com/vlabs-workshops/admin/blob/master/src/index.org
-
+  
 * Using College Cloud Editions for Workshops
   + [[http://community.vlabs.ac.in/docs/college-cloud/installation-manual.html#org3f38e28][Workflow for the workshop coordinator]]
-  
+  + Getting usages post workshop 
 
 * Agenda for Day 2
   
@@ -101,9 +99,9 @@
     |------+----------+-------------------------------------------------------------------+---------------------------|
     |    6 | 16:00 PM | TEA-BREAK                                                         |                           |
     |------+----------+-------------------------------------------------------------------+---------------------------|
-    |    7 | 16:15 PM | Workshop Expectations and Feedback                                | Mr.Ravi Shanker           |
+    |    7 | 16:15 PM | Post Workshop Expectations and Feedback                           | Mr.Ravi Shanker           |
     |------+----------+-------------------------------------------------------------------+---------------------------|
-
+   
 * Hands-on training on College Cloud installation and usage 
   + Participants in groups will perform hands-on installation, following the [[http://community.virtual-labs.ac.in/docs/college-cloud/installation-manual.html][installation manual]]
   + VLEAD Team (Siva, Raghupathi and Ashay) to assist in installation related queries.
@@ -120,4 +118,10 @@
   | Group 3      |         |
   |--------------+---------|
   
-* Workshops Expectation and feedback 
+* Post Workshops Expectation and Feedback 
+  + At least two workshops conducted using College Cloud Edition
+    before April review meet
+  + Provide workshop feedback report on Outreach Portal
+  + VLEAD will provide all the necessary support.
+  + Feedback - Please fill feedback form form feedback section http://community.virtual-labs.ac.in/w/index.php/College_Cloud_workshop
+   

@@ -17,9 +17,9 @@ Virtual Labs integration workshop.
 
 * Process
 
-1. Identify the date of the workshop.
-2. Plan the agenda, audience and logistics for the workshop.
-3. Send invite to the participants. 
+Identify the date of the workshop
+Plan the agenda, audience and logistics for the workshop.
+Send invite to the participants
 
 Draft mail :
 
