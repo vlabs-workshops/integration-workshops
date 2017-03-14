@@ -11,15 +11,15 @@
        |------+-------+-------------------------------------------+------------------------|
        | S.No |  Time | Topic                                     | Presenters             |
        |------+-------+-------------------------------------------+------------------------|
-       |    1 | 09:30 AM| Registration                              | Ravi Kiran             |
+       |    1 | 09:30 | Registration                              | Ravi Kiran             |
        |------+-------+-------------------------------------------+------------------------|
-       |    2 | 10:00 AM| Welcome address                           | Prof.Venkatesh         |
+       |    2 | 10:00 | Welcome address                           | Prof.Venkatesh         |
        |------+-------+-------------------------------------------+------------------------|
-       |    3 | 10:30 AM| Introduction to College Cloud Edition     | Ashay                  |
+       |    3 | 10:30 | Introduction to College Cloud Edition     | Ashay                  |
        |------+-------+-------------------------------------------+------------------------|
-       |    4 | 11:15 AM| TEA-BREAK                                 | -                      |
+       |    4 | 11:15 | TEA-BREAK                                 | -                      |
        |------+-------+-------------------------------------------+------------------------|
-       |    5 | 11:30 AM| Demo of College Cloud Edition             | Siva Shanker           |
+       |    5 | 11:30 | Demo of College Cloud Edition             | Siva Shanker           |
        |------+-------+-------------------------------------------+------------------------|
        |    6 | 13:00 | LUNCH                                     | -                      |
        |------+-------+-------------------------------------------+------------------------|
@@ -33,17 +33,17 @@
        |------+-------+-------------------------------------------+------------------------|
  
 * Registration
-  - Each workshop participant to register for the workshop and mark
-    attendance in the attedance sheet for both days (pre and post lunch).
+  - Each workshop participant has to  register for the workshop and mark
+    attendance for both days (Pre and Post lunch).
 
 * Welcome Address
-
+  By Dr. Venkatesh Choppella
 * Introduction to College Cloud 
 ** What is it ?
-   - College Cloud Edition is a Hard disk which contains Virtual Labs 
+   - College Cloud Edition is a Hard disk which contains Virtual Labs .
 ** What is the motivation ?
-   - Labs accessible without the Internet Connection.
-   - Increase the reach of Virtual Labs to colleges lacking internet connections.
+   - Accessing Labs without the Internet Connection.
+   - Increase the reach of Virtual Labs to colleges. 
  
 ** Current features 
    + Packaged with 73 Labs (Labs which are on Integration level 5 or 6)
@@ -55,13 +55,16 @@
 * Show a cup of Tea 
 
 * Demo of College Cloud Edition 
-  
+** Network Configuration
+  + Connect to  Wifi - =Portable-media= 
+  + For Linux users- Change DNS settings in =/etc/resolv.conf= 
+  + For Windows users - Change DNS settings in Control Panel ->
+    Network and Internet ->
 
-  + Connect to  Wifi - =Portable-media= to connect with College Cloud Eidtion
-  + Change DNS settings in =/etc/resolv.conf= for linux users
-  + Change DNS settings in Control Panel -> Network and Internet -> 
-               
+** Browser configuration
   + Set =No Proxy= in browsers
+
+** Using College Cloud 
   + Visit https://vlabs.ac.in
   + Click on Register button and fill up the details.
   + View all available labs.
@@ -76,7 +79,8 @@
   + Installation Manual - http://community.virtual-labs.ac.in/docs/college-cloud/installation-manual.html
 
 * Workshop process 
-  + https://github.com/vlabs-workshops/admin/blob/master/src/index.org
+  + [[http://community.vlabs.ac.in/docs/workshop-plan/][Virtual Labs workshop planning]]
+  + 
   
 * Using College Cloud Editions for Workshops
   + [[http://community.vlabs.ac.in/docs/college-cloud/installation-manual.html#org3f38e28][Workflow for the workshop coordinator]]
@@ -93,13 +97,13 @@
     |------+----------+-------------------------------------------------------------------+---------------------------|
     |    3 | 11:30    | Hands-on training on College Cloud Edition installation and usage | Ashay,Raghupathi ans Siva |
     |------+----------+-------------------------------------------------------------------+---------------------------|
-    |    4 | 13:00 PM | LUNCH                                                             |                           |
+    |    4 | 13:00    | LUNCH                                                             |                           |
     |------+----------+-------------------------------------------------------------------+---------------------------|
-    |    5 | 14:00 PM | Hands-on training on College Cloud Edition installation and usage | Ashay,Raghupathi ans Siva |
+    |    5 | 14:00    | Hands-on training on College Cloud Edition installation and usage | Ashay,Raghupathi ans Siva |
     |------+----------+-------------------------------------------------------------------+---------------------------|
-    |    6 | 16:00 PM | TEA-BREAK                                                         |                           |
+    |    6 | 16:00    | TEA-BREAK                                                         |                           |
     |------+----------+-------------------------------------------------------------------+---------------------------|
-    |    7 | 16:15 PM | Post Workshop Expectations and Feedback                           | Mr.Ravi Shanker           |
+    |    7 | 16:15    | Post Workshop Expectations and Feedback                           | Mr.Ravi Shanker           |
     |------+----------+-------------------------------------------------------------------+---------------------------|
    
 * Hands-on training on College Cloud installation and usage 
@@ -119,9 +123,11 @@
   |--------------+---------|
   
 * Post Workshops Expectation and Feedback 
-  + At least two workshops conducted using College Cloud Edition
-    before April review meet
+  + Conduct at least 2 workshops conducted using College Cloud Edition
+    before April 2017 review meeting.
   + Provide workshop feedback report on Outreach Portal
-  + VLEAD will provide all the necessary support.
-  + Feedback - Please fill feedback form form feedback section http://community.virtual-labs.ac.in/w/index.php/College_Cloud_workshop
+  + All necessary technical support will be provided by VLEAD.
+
+* Feedback 
+  Please fill feedback form form feedback section http://community.virtual-labs.ac.in/w/index.php/College_Cloud_workshop
    
