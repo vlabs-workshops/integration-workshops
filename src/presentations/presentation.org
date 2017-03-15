@@ -54,7 +54,9 @@
    + Analytics (Feedback / Usages/ User Records) 
    + Automatic Analytics log sharing utility.
 
-* Show a cup of Tea 
+* Source code repository 
+  https://github.com/openedx-vlead/college-cloud.git
+
 
 * Demo of College Cloud Edition 
 ** Network Configuration
