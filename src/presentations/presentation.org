@@ -33,8 +33,8 @@
        |------+-------+-------------------------------------------+------------------------|
  
 * Registration
-  - Each workshop participant has to  register for the workshop and mark
-    attendance for both days (Pre and Post lunch).
+  - Each workshop participant has to  register and provide attendance 
+    both days :pre and post lunch.
 
 * Welcome Address
   By Dr. Venkatesh Choppella
@@ -43,14 +43,16 @@
    - College Cloud Edition is a Hard disk which contains Virtual Labs .
 ** What is the motivation ?
    - Accessing Labs without the Internet Connection.
-   - Increase the reach of Virtual Labs to colleges. 
+   - Increasing the reach of Virtual Labs to colleges. 
  
 ** Current features 
-   + Packaged with 73 Labs (Labs which are on Integration level 5 or 6)
-   + College Cloud registration form
-   + Installation/User guide
-   + Feedback collection
-   + Automatic log sharing utility for analytics
+   + 71 Labs 
+   + 150+ videos integrated across 71 Labs 
+   + 30 Labs with NPTEL videos across 71 Labs 
+   + College Cloud registration form for Usage Collection
+   + Online Installation/User guide
+   + Analytics (Feedback / Usages/ User Records) 
+   + Automatic Analytics log sharing utility.
 
 * Show a cup of Tea 
 
@@ -59,7 +61,7 @@
   + Connect to  Wifi - =Portable-media= 
   + For Linux users- Change DNS settings in =/etc/resolv.conf= 
   + For Windows users - Change DNS settings in Control Panel ->
-    Network and Internet ->
+    Network and Internet -> Network and Sharing Center -> Change Adapter Settings -> Properties
 
 ** Browser configuration
   + Set =No Proxy= in browsers
@@ -80,11 +82,11 @@
 
 * Workshop process 
   + [[http://community.vlabs.ac.in/docs/workshop-plan/][Virtual Labs workshop planning]]
-  + 
+  + [[https://docs.google.com/spreadsheets/d/1KKBXmIPu05hmnkutfryLcZR5yzVKpEDB9olYgvH4FSs/edit#gid=2088400384][Institute to State Mapping]] 
   
 * Using College Cloud Editions for Workshops
   + [[http://community.vlabs.ac.in/docs/college-cloud/installation-manual.html#org3f38e28][Workflow for the workshop coordinator]]
-  + Getting usages post workshop 
+  + [[http://community.vlabs.ac.in/docs/user-manuals/outreach-portal/#sec-3-3][Getting usages post workshop]]
 
 * Agenda for Day 2
   
