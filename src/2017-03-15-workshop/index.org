@@ -127,11 +127,12 @@
   |--------------+---------|
   
 * Post Workshops Expectation and Feedback 
-  + Conduct at least 2 workshops conducted using College Cloud Edition
-    before April 2017 review meeting.
+  + Conduct at least 2 workshops conducted using College Cloud Edition before
+    April 2017 review meeting.
   + Provide workshop feedback report on Outreach Portal
   + All necessary technical support will be provided by VLEAD.
 
 * Feedback 
-  Please fill feedback form form feedback section http://community.virtual-labs.ac.in/w/index.php/College_Cloud_workshop
+  Please fill feedback form form feedback section
+  http://community.virtual-labs.ac.in/w/index.php/College_Cloud_workshop
    

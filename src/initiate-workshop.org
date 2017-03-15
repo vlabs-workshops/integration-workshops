@@ -1,0 +1,61 @@
+#+TITLE: Initiation of a Workshop
+#+AUTHOR: VLEAD
+#+DATE: [2017-03-15 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+* Initiation of a workshop
+
+** Identification
+
+  Identify the date of the workshop Plan the agenda, audience and logistics for
+  the workshop.  Send invite to the participants
+
+** Draft Mail
+
+Draft mail :
+
+Dear all,
+
+Warm wishes from VLEAD !
+
+VLEAD is happy to announce a <place holder for the workshop name>
+workshop at IIIT Hyderabad for all the <place holder for the role of
+participants> of Virtual Labs. The details of the workshop are as
+below:
+
+Dates
+------------------------
+Start Date: 
+End Date:
+
+Participants
+--------------------------
+1) <place holder for organizing institute name> Team
+2) <place holder for the number and role of participants> from each
+   participating institute
+3) <place holder for the role of optional participants>(optional)
+
+Goals of the Workshop
+--------------------------
+<place holder to list the broad goals of the workshop>
+
+Workshop Logistics & Costs
+--------------------------------------
+<place holder to detail food/accommodation/travel arrangements>
+<place holder to mention any prerequisites/expectations from the participants>
+
+Action Requested from invitees
+--------------------------------------
+<place holder to mention the last date for nomination>.
+
+Regards,
+
+** Logistics
+   Publish and share the link of the detailed Agenda, Objective, Prerequisites
+   from the participants,Documentation links (if any), Post workshop
+   expectations, Boarding & Lodging details and Contact information.
+
