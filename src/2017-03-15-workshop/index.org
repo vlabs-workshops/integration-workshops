@@ -123,23 +123,24 @@
   | Group 1      | Mr. Dhananjay Umrao   |
   |              | Ms. Nilima            |
   |              | Mr. Ajaykant          |
-  |              | Mr. Srinath           |
+  |              |  Mr. Mohak         |
   |--------------+-----------------------|
   | Group 2      | Mr. Chetan            |
   |              | Mr. Hrikesh           |
   |              | Ms. Swathi            |
-  |              | Mr. Vijay             |
+  |              |  Mr. Dinesh            |
+  |               | Mr. Amit Kumar Sharma|
   |--------------+-----------------------|
   | Group 3      | Mr. Nanu              |
   |              | Ms. Akshaya           |
   |              | Mr. Ashish            |
   |              | Ms. Anusha            |
-  |              | Mr. Sai               |
+  |              | Mr. Vaibhav               |
   |--------------+-----------------------|
-  | Groupn 4     | Mr. Vaibhav           |
-  |              | Mr. Mohak             |
-  |              | Mr. Dinesh            |
-  |              | Mr. Amit Kumar Sharma |
+  | Groupn 4     |  Mr. Sai           |
+  |              |Mr. Vijay             |
+  |              |  Mr. Srinath            |
+  |              |  |
   |--------------+-----------------------|
   
 * Post Workshops Expectation and Feedback 
