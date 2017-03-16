@@ -116,15 +116,31 @@
 
 * Groups 
   
-  |--------------+---------|
-  | Group number | Members |
-  |--------------+---------|
-  | Group 1      |         |
-  |--------------+---------|
-  | Group 2      |         |
-  |--------------+---------|
-  | Group 3      |         |
-  |--------------+---------|
+  
+  |--------------+-----------------------|
+  | Group number | Members               |
+  |--------------+-----------------------|
+  | Group 1      | Mr. Dhananjay Umrao   |
+  |              | Ms. Nilima            |
+  |              | Mr. Ajaykant          |
+  |              | Mr. Srinath           |
+  |--------------+-----------------------|
+  | Group 2      | Mr. Chetan            |
+  |              | Mr. Hrikesh           |
+  |              | Ms. Swathi            |
+  |              | Mr. Vijay             |
+  |--------------+-----------------------|
+  | Group 3      | Mr. Nanu              |
+  |              | Ms. Akshaya           |
+  |              | Mr. Ashish            |
+  |              | Ms. Anusha            |
+  |              | Mr. Sai               |
+  |--------------+-----------------------|
+  | Groupn 4     | Mr. Vaibhav           |
+  |              | Mr. Mohak             |
+  |              | Mr. Dinesh            |
+  |              | Mr. Amit Kumar Sharma |
+  |--------------+-----------------------|
   
 * Post Workshops Expectation and Feedback 
   + Conduct at least 2 workshops conducted using College Cloud Edition before
