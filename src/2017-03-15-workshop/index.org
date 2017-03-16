@@ -150,6 +150,6 @@
   + All necessary technical support will be provided by VLEAD.
 
 * Feedback 
-  Please fill feedback form form feedback section
-  http://community.virtual-labs.ac.in/w/index.php/College_Cloud_workshop
+  Please fill [[https://docs.google.com/forms/d/1DLyUlljfglN8TEAwXaEEwVhoqXaRHAhgVhXRfOKg5aU/viewform?edit_requested=true][feedback form]]
+  
    
