@@ -324,10 +324,30 @@
       by the participants colleges.
     + Provide more machines if possible  .
 
+
 * Things that went well
+  + Every activity in agenda followed the schedule.
+  + Participants were able to perform hands-on and were happy.
+  + There was good interaction between participants (both VLEAD and
+    other institutes).
+  
 
 * Things that went wrong
 
-* Post workshop activities 
+  + Hands-on was messy as more machines could have helped.
   
+
+
+* Post workshop activities and Expectations
+  + Participants would be trained on installing and using Virtual Labs
+    College Cloud Edition.
+  + They would be able to assist the Nodal Coordinators in conducting
+    workshops using Virtual Labs College Cloud Edition.
+  + Expectations from participants ::
+    + At least two workshops conducted using College Cloud Edition
+      before April review meet.
+    + Provide workshop feedback report on Outreach Portal.
+  + Expectations from VLEAD ::
+    + Support the Outreach/Nodal Coordinators/System Engineers
+      pre/during/post workshops.
 
