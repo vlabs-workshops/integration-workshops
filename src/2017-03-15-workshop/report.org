@@ -1,4 +1,4 @@
-#+TITLE: Virtual-Labs College Cloud Edition Workshop - Report
+#+TITLE: Report on Virtual Labs 4th Integration workshop on College Cloud
 #+AUTHOR: VLEAD, IIIT-Hyderabd
 #+DATE: [2017-03-20 Mon]
 #+PROPERTY: results output
@@ -6,5 +6,24 @@
 #+SETUPFILE: ../org-templates/level-1.org
 #+options: ^:nil
 #+LATEX: Literal LaTeX code for export
+
+
+* Workshop Details 
+** Participants 
+** Engineers who conducted the workshop
+
+* Objectives of the Workshop
+
+* Summary of the Workshop
+** First Day : March 15, 2017
+** Second Day : March 16, 2017
+
+* Feedback from participants 
+
+* Things that went well
+
+* Things that went wrong
+
+* Post workshop activities 
 
 
