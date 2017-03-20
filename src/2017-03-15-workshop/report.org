@@ -9,13 +9,191 @@
 
 
 * Workshop Details 
+  + Venue : IIIT Hyderabad 
+  + Date : March 15 to 16, 2017
+  + Time : 9:30 am to 5:00 pm 
+
 ** Participants 
+   |------+-----------------------+-------------------------------|
+   | S.No | Partipant's Name      | Institute Name                |
+   |------+-----------------------+-------------------------------|
+   |   1. | Mr. Dhananjay Umrao   | IIT kanpur                    |
+   |------+-----------------------+-------------------------------|
+   |   2. | Mr. Vaibhav Kurhe     | COE Pune                      |
+   |------+-----------------------+-------------------------------|
+   |   3. | Ms. Nilima Thigale    | COE Pune                      |
+   |------+-----------------------+-------------------------------|
+   |   4. | Mr. Chetan Dhiman     | IIT Roorkee                   |
+   |------+-----------------------+-------------------------------|
+   |   5. | Mr. Amit Kumar Sharma | IIT Roorkee                   |
+   |------+-----------------------+-------------------------------|
+   |   6. | Mr. Hrishikesh Baruah | IIT Guwahati                  |
+   |------+-----------------------+-------------------------------|
+   |   7. | Mr. Nanu Alan Kachari | IIT Guwahati                  |
+   |------+-----------------------+-------------------------------|
+   |   8. | Mr. Ajaykant Upadhyay | Dayalbagh Education Institute |
+   |------+-----------------------+-------------------------------|
+   |   9. | Mr. Dinesh            | Dayalbagh Education Institute |
+   |------+-----------------------+-------------------------------|
+   |  10. | Mr. Ashish Mudgil     | IIT Delhi                     |
+   |------+-----------------------+-------------------------------|
+   |  11. | Mr. Mohak Kaushik     | IIT Delhi                     |
+   |------+-----------------------+-------------------------------|
+   |  12. | Mr. Srinath           | TASK                          |
+   |------+-----------------------+-------------------------------|
+   |  13. | Mr. Sai               | TASK                          |
+   |------+-----------------------+-------------------------------|
+   |  14. | Mr. Vijay             | TASK                          |
+   |------+-----------------------+-------------------------------|
+   |  15. | Ms. Akshaya           | NIT Surathkal                 |
+   |------+-----------------------+-------------------------------|
+   |  16. | Ms. Anush             | NIT Surathkal                 |
+   |------+-----------------------+-------------------------------|
+   |  17. | Ms. Swati             | NIT Surathkal                 |
+   |------+-----------------------+-------------------------------|
+   
+
+   
+
+   
 ** Engineers who conducted the workshop
+   |------+------------------------+------------------|
+   | S.No | Name                   | Designation      |
+   |------+------------------------+------------------|
+   |   1. | Mr. Siva Shankar       | Project Engineer |
+   |------+------------------------+------------------|
+   |   2. | Mr. Raghupathi Kammari | Project Engineer |
+   |------+------------------------+------------------|
+   |   3. | Mr. Ravi Shankar       | Program Manager  |
+   |------+------------------------+------------------|
+   |   4. | Mr. Sripathi Kammari   | Project Engineer |
+   |------+------------------------+------------------|
+   |   5. | Mr. Lalit Mohan        | VLEAD POC        |
+   |------+------------------------+------------------|
+   |   6. | Mr. Ashay Maheshwari   | Project Engineer |
+   |------+------------------------+------------------|
+   |   7. | Ms. Priya Raman        | Program Manager  |
+   |------+------------------------+------------------|
+   |   8. | Ms. Sanchita Dixit     | Project Engineer |
+   |------+------------------------+------------------|
+   
 
 * Objectives of the Workshop
+  Objectives of the workshop were to -
+  + Understand and follow the installation process and usage of the
+    Virtual Labs College Cloud Edition.
+  + Assist the Nodal Coordinators in conducting workshops using
+    Virtual Labs College Cloud Edition.
+ 
+* Expectations after workshop
+** Expectations from Participants 
+   + At least two workshops conducted using College Cloud Edition
+     before April review meet.
+   + Provide workshop feedback report on Outreach Portal.
+** Expectations from VLEAD
+   + Support the Outreach/Nodal Coordinators/System Engineers
+     pre/during/post workshops.
+  
 
 * Summary of the Workshop
 ** First Day : March 15, 2017
+*** Registration of participants ( 9:30 AM )       
+    + Registration was carried out by VLEAD for all the participants.
+    + Participants were requested to fill in their names and other
+      details in the registration form.
+    + Participants were given a handout.
+
+*** Welcome Address by Professor Venkatesh Choppella ( 10:00 AM )
+    A welcome message and introduction was given by Professor
+    Choppella. He talked about the following -
+    + How can we contribute to this to this project ? 
+    + Praised the technology used by VLEAD used for web applications
+    + Every one in this community must come on IRC channels for better
+      and instant communication.
+    + Thanked the VLEAD team and others who joined for this workshop
+  
+*** A talk on VLEAD process by Mr. Thirmal Ravula ( 10:20 AM )
+    Mr. Thirmal deliverd a talk on VLEAD process and its components.
+    + Displayed https://dev.vlabs.ac.in and process for integration,
+      release management, milestones management.
+    + Talked about the development process in detail.
+    + How people can contribute and form a community.
+    + Introduced IRC channel and other communication channels,
+      engineers-forum, mailing list avilable for help within developer
+      community.
+    
+    
+*** Ice Breaking session with Mr. Priya Raman ( 10:40 AM )
+    This was a small introduction session with an intension to know
+    each other in the session.
+    + Participants introduced themselves, and their working experience
+      on Virtual Labs project.
+
+*** Agenda of workshop by Ashay Maheshwari
+    + Talked about the History of Virtual Labs projects.
+    + Agenda of Day 1 and 2 was discussed where a brief introduction to
+      each point in agenda was given.
+    + Ashay ensured for a gradual progress and lot of possible
+      interactions.
+
+*** Talk by Mr. Vaibhav Khure on Portable version of Virtual Labs by COE Pune
+    + presentation by Vaibhav kurhe on the common platform (portable
+      version of virtual labs) that they are using and developed for
+      adding all the labs and make them accessbile without any
+      internet issues.
+    + Questions on why multiple portals was raised by partipants.
+    + Mr. Maruthi stated it as very good example of open source
+      ideology (we can pull the different labs according to our needs
+      and put it on our portal as per our needs). 
+    + Displayed the Analytics system of vlabs.ac.in and talked about
+      how ELK stack is used to capture analytics.
+
+*** Introduction to College Cloud Edition by Ashay Maheshwari ( 10:45 AM )
+    Ashay spoke about the following -
+    + Introduced College Cloud Edition.
+    + Mentioned the need to reach colleges facing internet issues and
+      not able to utilise Virtual Labs.
+    + Revealed the current feature of College Cloud Edition.
+    + Briefly explained the Architecture Design diagram of College
+      Cloud Edition.
+
+*** Tea break 11:15 to 11:45 AM
+    Tea/coffee and extra sandwiches(not grilled, mayonese)
+
+*** Demo of College Cloud Edition - 11:45 AM - 1:00 PM By Shiva and Ashay (Assited by Raghupati, Sripathi, Sanchita)
+    + Siva gave the steps to configure network and connect to College
+      Cloud version for demo.
+    + Team assited partipants and helped them to get proper
+      configuration running on their machines.
+    + Partipants connected to vlabs.ac.in (College Cloud Edition) and
+      navigated around the website.
+    + Participants registerd to College Cloud Edition and enrolled to
+      Image Processing Lab.
+    + Partipants performed 2 experiments as directed by Siva. 
+    + Ashay introduced partipants with College Cloud UI and various
+      links available on it.
+    + Question :: 
+      
+    + Ashay briefly explained the role of Sys-admin and Workshop
+      coordinator.
+    + Questions asked and answers ::
+      |-------------------------------------------------------------+-----------------------------------------------------------|
+      | Question                                                    | Ans                                                       |
+      |-------------------------------------------------------------+-----------------------------------------------------------|
+      | Whether any Plugins need to be installed for running        | Lab dependencies remains same and hence no special plugin |
+      | a lab in College cloud ?                                    | is required other than the one lab depends on             |
+      |-------------------------------------------------------------+-----------------------------------------------------------|
+      | How do you collect logs here for analytics ?                | Was detailed in another session.                          |
+      |-------------------------------------------------------------+-----------------------------------------------------------|
+      | Can a single registration allow login on both online and    | Offline and Online version maintain seperate database and |
+      | offline version of vlabs.ac.in.?                            | hence user need to register seperately on both            |
+      |-------------------------------------------------------------+-----------------------------------------------------------|
+      | Once logged in, can I see the Discipline wise and institute | No. This has to be fixed in upcoming versions.            |
+      | wise category ?                                             |                                                           |
+      |-------------------------------------------------------------+-----------------------------------------------------------|
+      
+    + Team helped partipants to connect back to internet.
+  
 ** Second Day : March 16, 2017
 
 * Feedback from participants 
@@ -25,5 +203,5 @@
 * Things that went wrong
 
 * Post workshop activities 
-
+  
 
