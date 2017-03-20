@@ -105,6 +105,7 @@
       details in the registration form.
     + Participants were given a handout.
 
+
 *** Welcome Address by Professor Venkatesh Choppella ( 10:00 AM )
     A welcome message and introduction was given by Professor
     Choppella. He talked about the following -
@@ -114,6 +115,7 @@
       and instant communication.
     + Thanked the VLEAD team and others who joined for this workshop
   
+
 *** A talk on VLEAD process by Mr. Thirmal Ravula ( 10:20 AM )
     Mr. Thirmal deliverd a talk on VLEAD process and its components.
     + Displayed https://dev.vlabs.ac.in and process for integration,
@@ -131,12 +133,14 @@
     + Participants introduced themselves, and their working experience
       on Virtual Labs project.
 
+
 *** Agenda of workshop by Ashay Maheshwari
     + Talked about the History of Virtual Labs projects.
     + Agenda of Day 1 and 2 was discussed where a brief introduction to
       each point in agenda was given.
     + Ashay ensured for a gradual progress and lot of possible
       interactions.
+
 
 *** Talk by Mr. Vaibhav Khure on Portable version of Virtual Labs by COE Pune
     + presentation by Vaibhav kurhe on the common platform (portable
@@ -150,6 +154,7 @@
     + Displayed the Analytics system of vlabs.ac.in and talked about
       how ELK stack is used to capture analytics.
 
+
 *** Introduction to College Cloud Edition by Ashay Maheshwari ( 10:45 AM )
     Ashay spoke about the following -
     + Introduced College Cloud Edition.
@@ -159,8 +164,10 @@
     + Briefly explained the Architecture Design diagram of College
       Cloud Edition.
 
+
 *** Tea break 11:15 to 11:45 AM
     Tea/coffee and extra sandwiches(not grilled, mayonese)
+
 
 *** Demo of College Cloud Edition - 11:45 AM - 1:00 PM By Shiva and Ashay (Assited by Raghupati, Sripathi, Sanchita)
     + Siva gave the steps to configure network and connect to College
@@ -209,6 +216,7 @@
     + Architecture Design Diagram was explained in detail by Siva.
     + Using College Cloud registration form was demonstrated by Siva.
     
+
 *** Workshop Flow by Mr. Ravi Shankar and Mr. Lalit Mohan ( 3:25 PM to 4:00 PM )
     + Mr Ravi Shankar explained Pre workshop process, expression of
       interest forms and showed the draft mail.
@@ -229,11 +237,92 @@
     + Priya introduced Teacher's community and encouraged eveyone to
       join and post.
 
-        
-** Second Day : March 16, 2017
+*** Tea Break 4:00 to 4:15 PM 
+    Tea/coffee and biscuits
 
+*** Using College Cloud Edition for Workshops - Session by Sripathi - 4:20 PM - 5:05 PM
+    + Brief introduction to Outreach Portal.
+    + Pointed the user manual for outreach portal 
+    + Demo on How to create an Offline workshop in Outreach portal. 
+    + Demo on How to create an Online workshop in Outreach Portal.
+ 
+      
+** Second Day : March 16, 2017
+*** Full day Hands-On training on Installing College Cloud Edition 
+    + Partipants were grouped into teams of 4 members each.
+    + Each team was given required assets ( a machine, a router, a
+      College Cloud Disk, an Installation Manual).
+    + A member of each group was requested to take lead and perform
+      the installation by following the manual.
+    + Lead was given the responsibility to train other members of the
+      team and help them in installation.
+    + Siva and Raghupathi, frequently helped all groups to solve
+      queries and doubts.
+    + Every memeber dedicated enough time for installation and perform
+      the hands-on.
+    + Mr. Ashish from IIT Delhi, talked about the conventions to be
+      followed to fill information in Outreach portal.
+    + Mr. Ravi Shankar talked about the post workshop expectations.
+    + All participants submited feedback form and provided feedback on
+      Integration wokshop.
+    + Each institute was given a College Cloud disk and were requested
+      to return back in April 2017 review meeting.
+   
+   
 
 * Feedback from participants 
+  Based on the feedback submitted, below are the inferences -
+  + 17 participants submitted the feedback form
+  + The workshop covered what was stated in the announcement ::
+    + =64 %= people gave =5/5=
+    + =35 %= people gave =4/5=
+  + The workshop was relevant to my work ::
+    + =70 %= felt it and gave =5/5=
+  + The program was well placed within the alloted time ::
+    + =100 %= people felt it and gave 4 and 5 of 5
+  + I will recommend this workshop to others in my team ::
+    + =41 %= felt it no and gave =1/5=
+    + =50 %= felt it yes and gave =4 and 5/5=
+  + All the instructors were good communicators
+    + =70 %= felt it yes and gave =5/5=
+  + The material was presented in an organized manner ::
+    + =94 %= felt is yes and gave =4 and 5/5=
+  + The Instructors were knowledgeable on the topic ::
+    + =100 %= felt it yes and gave =4 and 5/5=
+  + The duration of the workshop was ::
+    + =84 %= felt that duration of the workshop was right
+  + All the details needed for the implementation were provided ::
+    + =94 %= felt that all the details for implementation were provided.
+  + Rate your overall experience ::
+    + =52.9 %= rated 4/5
+    + =41.2 %= rated 5/5
+    + =5.9 %= rated 3/5
+  + Do you feel confident that you will be able to do the College Cloud deployment correctly ? ::
+    + =47 %= felt it =5/5=
+    + =41 %= felt it =4/5=
+  + What did partipants most appreciate about the Workshop ? ::
+    + Hands on Lab and access to the knowledge base
+    + VLEAD Team done very smart and user friendly work. I want to
+      work with this team. Thanks
+    + The process of telling the thing and the co-operative nature of
+      people working here in IIITH.
+    + The new thing which I got to learn like some thing about system
+      configuration.
+    + Instructor team was very good
+    + Helping behavior of VLEAD
+    + The team work was really appreciable
+    + The efforts by team were upto mark.
+    + The way vlead team architectured the whole college cloud is
+      appreciable.
+  + What improvements would you suggest ? ::
+    + Cut short the time
+    + Improved Projector Visibility
+    + We are not able to host/upload a new website on this
+      Intra-net. It should be.
+    + Instructor communication and planning
+    + New Labs should be added in hard drive of college cloud edition
+      by the participants colleges.
+    + Provide more machines if possible  .
 
 * Things that went well
 
