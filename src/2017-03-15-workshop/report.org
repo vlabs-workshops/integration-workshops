@@ -85,6 +85,7 @@
   + Assist the Nodal Coordinators in conducting workshops using
     Virtual Labs College Cloud Edition.
  
+
 * Expectations after workshop
 ** Expectations from Participants 
    + At least two workshops conducted using College Cloud Edition
@@ -94,6 +95,7 @@
    + Support the Outreach/Nodal Coordinators/System Engineers
      pre/during/post workshops.
   
+
 
 * Summary of the Workshop
 ** First Day : March 15, 2017
@@ -194,7 +196,42 @@
       
     + Team helped partipants to connect back to internet.
   
+
+*** Training on Installation of College Cloud Edition by Siva and Raghupathi ( 2:30 PM - 3:25 PM )
+    + Ashay briefly talked about the virtualization technology used in
+      College Cloud Edition.
+    + Minimum requirements were explained by Siva. TASK raised a
+      question for minimum requirements for a lab.
+    + Demonstration of Configuration of College Cloud Edition.
+    + Question by TASK ::  
+      + How do we boot up the Hard disk ? 
+      + Properly answered by Siva
+    + Architecture Design Diagram was explained in detail by Siva.
+    + Using College Cloud registration form was demonstrated by Siva.
+    
+*** Workshop Flow by Mr. Ravi Shankar and Mr. Lalit Mohan ( 3:25 PM to 4:00 PM )
+    + Mr Ravi Shankar explained Pre workshop process, expression of
+      interest forms and showed the draft mail.
+    + Question by IIT Delhi ::
+      + When someone filled up the expression of interest and sends it
+        to IIIT-H, how does individual institute know it.
+      + Lalit Asnwered - Workshop request and mapping Report in Excel
+        sheet maintained by IIIT-H, and other details about how this
+        communication between IIIT and other concerned institute would
+        happen.
+    + Priya explained the usage and clarifications on the IICs, IOCs,
+      PICs mail IDs and how does it work. 
+    + Priya also introduced about the Common folder in the Google
+      drive and its importance and usage.
+    + Question by Lalit ::
+      + How COE Pune track the workshop details ?
+      + Vaibahav reveled the process.
+    + Priya introduced Teacher's community and encouraged eveyone to
+      join and post.
+
+        
 ** Second Day : March 16, 2017
+
 
 * Feedback from participants 
 
