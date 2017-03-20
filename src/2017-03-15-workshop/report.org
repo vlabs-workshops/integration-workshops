@@ -1,0 +1,10 @@
+#+TITLE: Virtual-Labs College Cloud Edition Workshop - Report
+#+AUTHOR: VLEAD, IIIT-Hyderabd
+#+DATE: [2017-03-20 Mon]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+SETUPFILE: ../org-templates/level-1.org
+#+options: ^:nil
+#+LATEX: Literal LaTeX code for export
+
+
