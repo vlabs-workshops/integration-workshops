@@ -115,7 +115,7 @@
     + Thanked the VLEAD team and others who joined for this workshop.
   
 
-*** A talk on VLEAD process by Mr. Thirumal Ravula ( 10:20 AM )
+*** VLEAD process and best practices  by Mr. Thirumal Ravula ( 10:20 AM )
     Mr. Thirumal delivered a talk on VLEAD process and its components.
     + Displayed https://dev.vlabs.ac.in and process for integration,
       release management, milestones management.
@@ -140,7 +140,7 @@
     + Facilitated interaction.
 
 
-*** Talk by Mr. Vaibhav Khure on Portable version of Virtual Labs by COE Pune
+*** Portable version of Virtual Labs by COE Pune by Mr. Vaibhav Khure 
     + Presentation by Mr. Vaibhav Kurhe on the common platform (portable
       version of virtual labs) that COE Pune has developed and using for
       making labs accessbile without any internet issues.
@@ -156,7 +156,7 @@
     + Introduced College Cloud Edition.
     + Mentioned the need to reach colleges facing internet issues and
       not able to utilise Virtual Labs.
-    + Revealed the current feature of College Cloud Edition.
+    + Revealed the current features of College Cloud Edition.
     + Briefly explained the Architecture Design diagram of College
       Cloud Edition.
 
