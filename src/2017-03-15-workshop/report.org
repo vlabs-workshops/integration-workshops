@@ -17,7 +17,7 @@
    |------+-----------------------+-------------------------------|
    | S.No | Partipant's Name      | Institute Name                |
    |------+-----------------------+-------------------------------|
-   |   1. | Mr. Dhananjay Umrao   | IIT kanpur                    |
+   |   1. | Mr. Dhananjay Umrao   | IIT Kanpur                    |
    |------+-----------------------+-------------------------------|
    |   2. | Mr. Vaibhav Kurhe     | COE Pune                      |
    |------+-----------------------+-------------------------------|
@@ -53,10 +53,9 @@
    |------+-----------------------+-------------------------------|
    
 
+  
    
-
-   
-** Engineers who conducted the workshop
+** VLEAD Team who conducted the workshop
    |------+------------------------+------------------|
    | S.No | Name                   | Designation      |
    |------+------------------------+------------------|
@@ -103,32 +102,32 @@
     + Registration was carried out by VLEAD for all the participants.
     + Participants were requested to fill in their names and other
       details in the registration form.
-    + Participants were given a handout.
+    + Participants were given a handout along with the agenda of the workshop.
 
 
 *** Welcome Address by Professor Venkatesh Choppella ( 10:00 AM )
     A welcome message and introduction was given by Professor
     Choppella. He talked about the following -
-    + How can we contribute to this to this project ? 
-    + Praised the technology used by VLEAD used for web applications
-    + Every one in this community must come on IRC channels for better
+    + How one can contribute to this to this project?
+    + Showcased the technology used by VLEAD used for web applications.
+    + Why each Virtual Labs community member  should use IRC channels for better
       and instant communication.
-    + Thanked the VLEAD team and others who joined for this workshop
+    + Thanked the VLEAD team and others who joined for this workshop.
   
 
-*** A talk on VLEAD process by Mr. Thirmal Ravula ( 10:20 AM )
-    Mr. Thirmal deliverd a talk on VLEAD process and its components.
+*** A talk on VLEAD process by Mr. Thirumal Ravula ( 10:20 AM )
+    Mr. Thirumal delivered a talk on VLEAD process and its components.
     + Displayed https://dev.vlabs.ac.in and process for integration,
       release management, milestones management.
-    + Talked about the development process in detail.
-    + How people can contribute and form a community.
+    + Talked about the development process in detail and how one 
+       can contribute and form a community.
     + Introduced IRC channel and other communication channels,
       engineers-forum, mailing list avilable for help within developer
       community.
     
     
-*** Ice Breaking session with Mr. Priya Raman ( 10:40 AM )
-    This was a small introduction session with an intension to know
+*** Ice Breaking session with Ms. Priya Raman ( 10:40 AM )
+    This was a small introduction session with an intention to know
     each other in the session.
     + Participants introduced themselves, and their working experience
       on Virtual Labs project.
@@ -136,23 +135,20 @@
 
 *** Agenda of workshop by Ashay Maheshwari
     + Talked about the History of Virtual Labs projects.
-    + Agenda of Day 1 and 2 was discussed where a brief introduction to
-      each point in agenda was given.
-    + Ashay ensured for a gradual progress and lot of possible
-      interactions.
+    + Discussed the agenda of Day 1 and Day 2 with  brief introduction to
+      each item in agenda.
+    + Facilitated interaction.
 
 
 *** Talk by Mr. Vaibhav Khure on Portable version of Virtual Labs by COE Pune
-    + presentation by Vaibhav kurhe on the common platform (portable
-      version of virtual labs) that they are using and developed for
-      adding all the labs and make them accessbile without any
-      internet issues.
+    + Presentation by Mr. Vaibhav Kurhe on the common platform (portable
+      version of virtual labs) that COE Pune has developed and using for
+      making labs accessbile without any internet issues.
     + Questions on why multiple portals was raised by partipants.
-    + Mr. Maruthi stated it as very good example of open source
-      ideology (we can pull the different labs according to our needs
-      and put it on our portal as per our needs). 
-    + Displayed the Analytics system of vlabs.ac.in and talked about
-      how ELK stack is used to capture analytics.
+    + Mr. Maruthi from VLEAD stated that it wasvery good example of open source
+      ideology (where one can pull different labs according to one's needs
+      and place it on our portal ). He also displayed the Analytics system of 
+      vlabs.ac.in and talked about how ELK stack is used to capture analytics.
 
 
 *** Introduction to College Cloud Edition by Ashay Maheshwari ( 10:45 AM )
@@ -164,25 +160,22 @@
     + Briefly explained the Architecture Design diagram of College
       Cloud Edition.
 
-
 *** Tea break 11:15 to 11:45 AM
-    Tea/coffee and extra sandwiches(not grilled, mayonese)
+    Tea/Coffee and Sandwiches
 
 
-*** Demo of College Cloud Edition - 11:45 AM - 1:00 PM By Shiva and Ashay (Assited by Raghupati, Sripathi, Sanchita)
+*** Demo of College Cloud Edition - 11:45 AM - 1:00 PM By Shiva and Ashay (Assisted by Raghupati, Sripathi, Sanchita)
     + Siva gave the steps to configure network and connect to College
       Cloud version for demo.
-    + Team assited partipants and helped them to get proper
-      configuration running on their machines.
+    + Team assited partipants and helped them set up proper
+      configuration on their machines.
     + Partipants connected to vlabs.ac.in (College Cloud Edition) and
       navigated around the website.
-    + Participants registerd to College Cloud Edition and enrolled to
+    + Participants registered to College Cloud Edition and enrolled to
       Image Processing Lab.
     + Partipants performed 2 experiments as directed by Siva. 
     + Ashay introduced partipants with College Cloud UI and various
-      links available on it.
-    + Question :: 
-      
+      links available on it.      
     + Ashay briefly explained the role of Sys-admin and Workshop
       coordinator.
     + Questions asked and answers ::
@@ -210,41 +203,36 @@
     + Minimum requirements were explained by Siva. TASK raised a
       question for minimum requirements for a lab.
     + Demonstration of Configuration of College Cloud Edition.
-    + Question by TASK ::  
-      + How do we boot up the Hard disk ? 
-      + Properly answered by Siva
+    + Question by TASK as to 'How do we boot up the Hard disk ?' was addressed by Siva.
     + Architecture Design Diagram was explained in detail by Siva.
     + Using College Cloud registration form was demonstrated by Siva.
     
 
 *** Workshop Flow by Mr. Ravi Shankar and Mr. Lalit Mohan ( 3:25 PM to 4:00 PM )
     + Mr Ravi Shankar explained Pre workshop process, expression of
-      interest forms and showed the draft mail.
+      interest forms and went through the draft mail.
     + Question by IIT Delhi ::
       + When someone filled up the expression of interest and sends it
         to IIIT-H, how does individual institute know it.
-      + Lalit Asnwered - Workshop request and mapping Report in Excel
-        sheet maintained by IIIT-H, and other details about how this
+      + Answered by Mr. Lalit- Workshop request and mapping Report in Excel
+        sheet maintained by IIIT-H, and other details about how the
         communication between IIIT and other concerned institute would
         happen.
-    + Priya explained the usage and clarifications on the IICs, IOCs,
-      PICs mail IDs and how does it work. 
-    + Priya also introduced about the Common folder in the Google
+    + Ms. Priya explained the usage and clarifications on the IICs, IOCs,
+      PICs mail IDs and how does it works. 
+    + Ms. Priya also introduced about the Common folder in the Google
       drive and its importance and usage.
-    + Question by Lalit ::
-      + How COE Pune track the workshop details ?
-      + Vaibahav reveled the process.
     + Priya introduced Teacher's community and encouraged eveyone to
       join and post.
 
 *** Tea Break 4:00 to 4:15 PM 
-    Tea/coffee and biscuits
+    Tea/Coffee and Biscuits
 
 *** Using College Cloud Edition for Workshops - Session by Sripathi - 4:20 PM - 5:05 PM
     + Brief introduction to Outreach Portal.
-    + Pointed the user manual for outreach portal 
-    + Demo on How to create an Offline workshop in Outreach portal. 
-    + Demo on How to create an Online workshop in Outreach Portal.
+    + Pointed the user manual for Outreach Portal 
+    + Gave a demo on How to create an Offline workshop in Outreach Portal. 
+    + Gave a demo on How to create an Online workshop in Outreach Portal.
  
       
 ** Second Day : March 16, 2017
@@ -253,44 +241,43 @@
     + Each team was given required assets ( a machine, a router, a
       College Cloud Disk, an Installation Manual).
     + A member of each group was requested to take lead and perform
-      the installation by following the manual.
-    + Lead was given the responsibility to train other members of the
+      the installation of Virtual Labs College Cloud Edition by following the manual.
+    + The lead was given the responsibility to train other members of the
       team and help them in installation.
-    + Siva and Raghupathi, frequently helped all groups to solve
+    + Mr. Siva and Mr. Raghupathi, frequently helped all groups to solve
       queries and doubts.
-    + Every memeber dedicated enough time for installation and perform
+    + Every member was given dedicated time for installation and perform
       the hands-on.
     + Mr. Ashish from IIT Delhi, talked about the conventions to be
       followed to fill information in Outreach portal.
     + Mr. Ravi Shankar talked about the post workshop expectations.
     + All participants submited feedback form and provided feedback on
       Integration wokshop.
-    + Each institute was given a College Cloud disk and were requested
-      to return back in April 2017 review meeting.
-   
+    + Each institute was given a College Cloud disk and requested
+      to return it during April 2017 review meeting.
    
 
-* Feedback from participants 
+* Feedback from participants on the Workshop
   Based on the feedback submitted, below are the inferences -
   + 17 participants submitted the feedback form
   + The workshop covered what was stated in the announcement ::
-    + =64 %= people gave =5/5=
-    + =35 %= people gave =4/5=
+    + =64 %= people gave a score of =5/5=
+    + =35 %= people gave a score of =4/5=
   + The workshop was relevant to my work ::
-    + =70 %= felt it and gave =5/5=
+    + =70 %= felt it and gave a score of =5/5=
   + The program was well placed within the alloted time ::
-    + =100 %= people felt it and gave 4 and 5 of 5
+    + =100 %= of the paricipants agreed and gave a score of =4/5= and =5/5=
   + I will recommend this workshop to others in my team ::
-    + =41 %= felt it no and gave =1/5=
-    + =50 %= felt it yes and gave =4 and 5/5=
-  + All the instructors were good communicators
-    + =70 %= felt it yes and gave =5/5=
+    + =41 %= disagreed and gave a score of =1/5=
+    + =50 %= agreed and gave a score of =4/5= and =5/5=
+  + All the instructors were good communicators ::
+    + =70 %= agreed and gave a score of =5/5=
   + The material was presented in an organized manner ::
-    + =94 %= felt is yes and gave =4 and 5/5=
+    + =94 %= agreed and gave a score of =4/5= and =5/5=
   + The Instructors were knowledgeable on the topic ::
-    + =100 %= felt it yes and gave =4 and 5/5=
+    + =100 %= agreed and gave a score of =4/5= and =5/5=
   + The duration of the workshop was ::
-    + =84 %= felt that duration of the workshop was right
+    + =84 %= felt that the duration of the workshop was right
   + All the details needed for the implementation were provided ::
     + =94 %= felt that all the details for implementation were provided.
   + Rate your overall experience ::
@@ -302,27 +289,26 @@
     + =41 %= felt it =4/5=
   + What did partipants most appreciate about the Workshop ? ::
     + Hands on Lab and access to the knowledge base
-    + VLEAD Team done very smart and user friendly work. I want to
+    + VLEAD Team have done a very smart and user friendly work. I want to
       work with this team. Thanks
     + The process of telling the thing and the co-operative nature of
       people working here in IIITH.
     + The new thing which I got to learn like some thing about system
       configuration.
-    + Instructor team was very good
-    + Helping behavior of VLEAD
-    + The team work was really appreciable
+    + Instructor team was very good.
+    + Helping behavior of VLEAD.
+    + The team work was really appreciable.
     + The efforts by team were upto mark.
-    + The way vlead team architectured the whole college cloud is
+    + The way VLEAD team architectured the whole college cloud is
       appreciable.
   + What improvements would you suggest ? ::
-    + Cut short the time
+    + Cut short the time.
     + Improved Projector Visibility
-    + We are not able to host/upload a new website on this
-      Intra-net. It should be.
-    + Instructor communication and planning
-    + New Labs should be added in hard drive of college cloud edition
+    + Able to host/upload a new website on this intranet.
+    + Instructor communication and planning.
+    + New Labs to be added in hard drive of college cloud edition
       by the participants colleges.
-    + Provide more machines if possible  .
+    + Provide more machines during workshop if possible.
 
 
 * Things that went well
@@ -333,13 +319,11 @@
   
 
 * Things that went wrong
-
-  + Hands-on was messy as more machines could have helped.
+  + Hands-on was slow and more machines could have helped.
   
 
-
 * Post workshop activities and Expectations
-  + Participants would be trained on installing and using Virtual Labs
+  + Participants have been trained on installing and using Virtual Labs
     College Cloud Edition.
   + They would be able to assist the Nodal Coordinators in conducting
     workshops using Virtual Labs College Cloud Edition.
@@ -350,4 +334,3 @@
   + Expectations from VLEAD ::
     + Support the Outreach/Nodal Coordinators/System Engineers
       pre/during/post workshops.
-
