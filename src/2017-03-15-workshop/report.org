@@ -331,6 +331,11 @@
     + At least two workshops conducted using College Cloud Edition
       before April review meet.
     + Provide workshop feedback report on Outreach Portal.
+    + Workshop participants to train/conduct College Cloud Edition workshops 
+      for other members in their team ( in their respective colleges) on installing 
+      and using Virtual Labs College Cloud Edition.
+    + Workshop participants to assist the Nodal Coordinators in conducting Virtual Labs
+       workshops using Virtual Labs College Cloud Edition.
   + Expectations from VLEAD ::
     + Support the Outreach/Nodal Coordinators/System Engineers
       pre/during/post workshops.
