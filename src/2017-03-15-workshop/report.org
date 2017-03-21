@@ -181,20 +181,25 @@
     + Mr. Ashay briefly explained the role of Sys-admin and Workshop
       coordinator.
     + Questions asked and answers ::
-      |-------------------------------------------------------------+-----------------------------------------------------------|
-      | Question                                                    | Ans                                                       |
-      |-------------------------------------------------------------+-----------------------------------------------------------|
-      | Whether any Plugins need to be installed for running        | Lab dependencies remains same and hence no special plugin |
-      | a lab in College cloud ?                                    | is required other than the one lab depends on             |
-      |-------------------------------------------------------------+-----------------------------------------------------------|
-      | How do you collect logs here for analytics ?                | Was detailed in another session.                          |
-      |-------------------------------------------------------------+-----------------------------------------------------------|
-      | Can a single registration allow login on both online and    | Offline and Online version maintain seperate database and |
-      | offline version of vlabs.ac.in.?                            | hence user need to register seperately on both            |
-      |-------------------------------------------------------------+-----------------------------------------------------------|
-      | Once logged in, can I see the Discipline wise and institute | No. This has to be fixed in upcoming versions.            |
-      | wise category ?                                             |                                                           |
-      |-------------------------------------------------------------+-----------------------------------------------------------|
+      + Question 1 ::  Whether any Plugins need to be installed for
+                      running a lab in College cloud ?
+      + Answer 1 :: Lab dependencies remains same and hence no special
+                    plugin is required other than the one lab depends
+                    on.
+
+      + Question 2 :: How do you collect analytics in College Cloud
+                      Edition ?
+      + Answer 2 :: A detialed answer was given in other session.
+
+      + Question 3 :: Can a single registration allow login on both
+                      online and offline version of vlabs.ac.in ?
+      + Answer 3 :: Offline and Online version maintain seperate
+                    database and hence user need to register
+                    seperately for both.
+
+      + Question 4 :: Once logged in, can we see the Discipline wise
+                      and institute wise list of courses ?
+      + Answer 4 :: No. This is not provied in current version.
       
     + Team helped partipants to connect back to internet.
   
