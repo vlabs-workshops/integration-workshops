@@ -1,4 +1,4 @@
-#+TITLE: Report on Virtual Labs 4th Integration workshop on College Cloud
+#+TITLE: Report on Virtual Labs 4th Integration workshop on Virtual Labs College Cloud Edition 
 #+AUTHOR: VLEAD, IIIT-Hyderabd
 #+DATE: [2017-03-20 Mon]
 #+PROPERTY: results output
@@ -133,7 +133,7 @@
       on Virtual Labs project.
 
 
-*** Agenda of workshop by Ashay Maheshwari
+*** Agenda of workshop by Mr. Ashay Maheshwari
     + Talked about the History of Virtual Labs projects.
     + Discussed the agenda of Day 1 and Day 2 with  brief introduction to
       each item in agenda.
@@ -151,8 +151,8 @@
       vlabs.ac.in and talked about how ELK stack is used to capture analytics.
 
 
-*** Introduction to College Cloud Edition by Ashay Maheshwari ( 10:45 AM )
-    Ashay spoke about the following -
+*** Introduction to College Cloud Edition by Mr. Ashay Maheshwari ( 10:45 AM )
+    Mr. Ashay spoke about the following -
     + Introduced College Cloud Edition.
     + Mentioned the need to reach colleges facing internet issues and
       not able to utilise Virtual Labs.
@@ -164,8 +164,8 @@
     Tea/Coffee and Sandwiches
 
 
-*** Demo of College Cloud Edition - 11:45 AM - 1:00 PM By Shiva and Ashay (Assisted by Raghupati, Sripathi, Sanchita)
-    + Siva gave the steps to configure network and connect to College
+*** Demo of College Cloud Edition - 11:45 AM - 1:00 PM By Mr. Shiva and Mr. Ashay (Assisted by Mr. Raghupati, Mr. Sripathi, Ms. Sanchita)
+    + Mr. Siva gave the steps to configure network and connect to College
       Cloud version for demo.
     + Team assited partipants and helped them set up proper
       configuration on their machines.
@@ -173,10 +173,10 @@
       navigated around the website.
     + Participants registered to College Cloud Edition and enrolled to
       Image Processing Lab.
-    + Partipants performed 2 experiments as directed by Siva. 
-    + Ashay introduced partipants with College Cloud UI and various
+    + Partipants performed 2 experiments as directed by NMr. Siva. 
+    + Mr. Ashay introduced partipants with College Cloud UI and various
       links available on it.      
-    + Ashay briefly explained the role of Sys-admin and Workshop
+    + Mr. Ashay briefly explained the role of Sys-admin and Workshop
       coordinator.
     + Questions asked and answers ::
       |-------------------------------------------------------------+-----------------------------------------------------------|
@@ -197,15 +197,15 @@
     + Team helped partipants to connect back to internet.
   
 
-*** Training on Installation of College Cloud Edition by Siva and Raghupathi ( 2:30 PM - 3:25 PM )
+*** Training on Installation of College Cloud Edition by Mr. Siva and Mr. Raghupathi ( 2:30 PM - 3:25 PM )
     + Ashay briefly talked about the virtualization technology used in
       College Cloud Edition.
-    + Minimum requirements were explained by Siva. TASK raised a
+    + Minimum requirements were explained by Mr. Siva. TASK raised a
       question for minimum requirements for a lab.
     + Demonstration of Configuration of College Cloud Edition.
-    + Question by TASK as to 'How do we boot up the Hard disk ?' was addressed by Siva.
-    + Architecture Design Diagram was explained in detail by Siva.
-    + Using College Cloud registration form was demonstrated by Siva.
+    + Question by TASK as to 'How do we boot up the Hard disk ?' was addressed by Mr. Siva.
+    + Architecture Design Diagram was explained by Mr. Siva.
+    + Using College Cloud registration form was demonstrated by Mr. Siva.
     
 
 *** Workshop Flow by Mr. Ravi Shankar and Mr. Lalit Mohan ( 3:25 PM to 4:00 PM )
@@ -228,7 +228,7 @@
 *** Tea Break 4:00 to 4:15 PM 
     Tea/Coffee and Biscuits
 
-*** Using College Cloud Edition for Workshops - Session by Sripathi - 4:20 PM - 5:05 PM
+*** Using College Cloud Edition for Workshops - Session by Mr. Sripathi - 4:20 PM - 5:05 PM
     + Brief introduction to Outreach Portal.
     + Pointed the user manual for Outreach Portal 
     + Gave a demo on How to create an Offline workshop in Outreach Portal. 
