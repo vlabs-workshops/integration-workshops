@@ -277,8 +277,7 @@
   + The program was well placed within the alloted time ::
     + =100 %= of the paricipants agreed and gave a score of =4/5= and =5/5=
   + I will recommend this workshop to others in my team ::
-    + =41 %= disagreed and gave a score of =1/5=
-    + =50 %= agreed and gave a score of =4/5= and =5/5=
+    + =91 %= agreed and gave a score of =5/5=
   + All the instructors were good communicators ::
     + =70 %= agreed and gave a score of =5/5=
   + The material was presented in an organized manner ::
