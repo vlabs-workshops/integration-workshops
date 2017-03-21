@@ -84,7 +84,7 @@
   + Assist the Nodal Coordinators in conducting workshops using
     Virtual Labs College Cloud Edition.
  
-
+    
 * Expectations after workshop
 ** Expectations from Participants 
    + At least two workshops conducted using College Cloud Edition
@@ -133,14 +133,14 @@
       on Virtual Labs project.
 
 
-*** Agenda of workshop by Mr. Ashay Maheshwari
+*** Agenda of workshop by Mr. Ashay Maheshwari ( 10:45 AM )
     + Talked about the History of Virtual Labs projects.
     + Discussed the agenda of Day 1 and Day 2 with  brief introduction to
       each item in agenda.
     + Facilitated interaction.
 
 
-*** Portable version of Virtual Labs by COE Pune by Mr. Vaibhav Khure 
+*** Portable version of Virtual Labs by COE Pune by Mr. Vaibhav Khure ( 10:50 AM )
     + Presentation by Mr. Vaibhav Kurhe on the common platform (portable
       version of virtual labs) that COE Pune has developed and using for
       making labs accessbile without any internet issues.
@@ -151,7 +151,7 @@
       vlabs.ac.in and talked about how ELK stack is used to capture analytics.
 
 
-*** Introduction to College Cloud Edition by Mr. Ashay Maheshwari ( 10:45 AM )
+*** Introduction to College Cloud Edition by Mr. Ashay Maheshwari ( 11:00 AM )
     Mr. Ashay spoke about the following -
     + Introduced College Cloud Edition.
     + Mentioned the need to reach colleges facing internet issues and
@@ -160,7 +160,9 @@
     + Briefly explained the Architecture Design diagram of College
       Cloud Edition.
 
+
 *** Tea break 11:15 to 11:45 AM
+
     Tea/Coffee and Sandwiches
 
 
@@ -225,8 +227,10 @@
     + Priya introduced Teacher's community and encouraged eveyone to
       join and post.
 
+
 *** Tea Break 4:00 to 4:15 PM 
     Tea/Coffee and Biscuits
+
 
 *** Using College Cloud Edition for Workshops - Session by Mr. Sripathi - 4:20 PM - 5:05 PM
     + Brief introduction to Outreach Portal.
