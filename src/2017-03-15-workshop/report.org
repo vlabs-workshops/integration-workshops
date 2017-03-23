@@ -79,7 +79,7 @@
    |------+------------------------+-------------------------------|
    
 
-
+   
 * Objectives of the Workshop
   Objectives of the workshop were to -
   + Understand and follow the installation process and usage of the
@@ -270,33 +270,43 @@
   Based on the feedback submitted using google form, following are the inferences - 
   + All 17 participants submitted the feedback form.
   + Q :: The workshop covered what was stated in the announcement 
-    + =64 %= of the paricipants gave a score of =5/5= (Completly)
-    + =35 %= of the participants gave a score of =4/5=
+    + =64.7 %= of the participants gave a score of =5/5= (Completely)
+    + =35.3 %= of the participants gave a score of =4/5=
 
   + Q :: The workshop was relevant to your work 
-    + =70 %= of the paricipants gave a score of  =5/5= (Yes, very relevant)
-    + =30 %= of the participants gave a score of =4/5=
+    + =70.6 %= of the participants gave a score of  =5/5= (Yes, very relevant)
+    + =17.6 %= of the participants gave a score of =4/5=
+    + =11.6 %= of the participants gave a score of =3/5= 
 
   + Q :: The program was well placed within the alloted time 
-    + =100 %= of the paricipants agreed and gave a score of =4/5= and =5/5= (Yes, very much)
+    + =100 %= of the participants agreed and gave a score of =4/5= and =5/5= (Yes, very much)
 
   + Q :: I will recommend this workshop to others in my team 
-    + =91 %= of the paricipants gave a score of =5/5= (Yes)
+    + =70.6 %= of the participants gave a score of =5/5= (Yes)
+    + =23.5 %= of the participants gave a score of =4/5=
+    + =05.9 %= of the participants gave a score of =3/5=
+
 
   + Q :: All the instructors were good communicators 
-    + =70 %= of the paricipants gave a score of =5/5= (All were good)
+    + =70.6 %= of the participants gave a score of =5/5= (All were good)
+    + =11.8 %= of the participants gave a score of =4/5= 
+    + =17.6 %= of the participants gave a score of =3/5=
 
   + Q :: The material was presented in an organized manner 
-    + =94 %= of the paricipants gave a score of =4/5= and =5/5= (very well organised)
+    + =94.1 %= of the paricipants gave a score of =4/5= and =5/5= (very well organised)
+    + =05.9 %= of the participants have a score of =2/5=    
 
   + Q :: The Instructors were knowledgeable on the topic 
-    + =100 %= of the paricipants gave a score of =4/5= and =5/5=(In command of the subject)
+    + =100 %= of the paricipants gave a score of =4/5= and =5/5= (In command of the subject)
 
   + Q :: The duration of the workshop was 
-    + =84 %= of the participants gave a score of =5/5= (Right duration)
-
+    + =82.4 %= of the participants said it as =Right duration=
+    + =11.8 %= of the participants said it as =Too long=
+    + =05.9 %= of the participants said it as =Too short=
+     
   + Q :: All the details needed for the implementation were provided 
-    + =94 %= felt that all the details for implementation were provided.
+    + =94.1 %= felt that all the details for implementation were provided.
+    + =05.9 %= felt that things we missing.
 
   + Q :: Rate your overall experience 
     + =41.2 %= rated 5/5 (Very Good)
@@ -304,8 +314,9 @@
     + =05.9 %= rated 3/5
 
   + Q :: Do you feel confident that you will be able to do the College Cloud deployment correctly ? 
-    + =47 %= felt it =5/5= (Very well)
-    + =41 %= felt it =4/5=
+    + =47.1 %= of the participants gave a score of =5/5= (very well)
+    + =41.1 %= of the participants gave a score of =4/5= 
+    + =11.8 %= of the participants gave a score of =3/5=
 
   + Q :: What did you most appreciate about the Workshop ? 
     + Hands on Lab and access to the knowledge base
@@ -360,3 +371,5 @@
   + Expectations from VLEAD ::
     + Support the Outreach/Nodal Coordinators/System Engineers
       pre/during/post workshops.
+
+
