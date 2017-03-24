@@ -380,8 +380,7 @@
 
 * Attendance 
   Attendance sheet for Virtual Labs 4th Integration Workshop is
-  [[https://drive.google.com/open?id=0B_TJToQnEM4tU3BVQUZoVDk1bTQ][Available on drive]] .
-  Contact numbers are hidden for privacy reasons. 
+  [[https://drive.google.com/open?id=0B_TJToQnEM4tU3BVQUZoVDk1bTQ][available on drive]]. Contact numbers are hidden for privacy reasons.
 
   
 
