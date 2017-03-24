@@ -305,13 +305,13 @@
     + =05.9 %= of the participants said it as =Too short=
      
   + Q :: All the details needed for the implementation were provided 
-    + =94.1 %= felt that all the details for implementation were provided.
+    + =94.1 %= felt that all the details for implementation were provided. (very well)
     + =05.9 %= felt that things we missing.
 
   + Q :: Rate your overall experience 
-    + =41.2 %= rated 5/5 (Very Good)
-    + =52.9 %= rated 4/5
-    + =05.9 %= rated 3/5
+    + =41.2 %= of the participants gave a score of 5/5 (Very Good)
+    + =52.9 %= of the participants gave a score of 4/5
+    + =05.9 %= of the participants gave a score of 3/5
 
   + Q :: Do you feel confident that you will be able to do the College Cloud deployment correctly ? 
     + =47.1 %= of the participants gave a score of =5/5= (very well)
