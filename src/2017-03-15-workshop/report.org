@@ -1,9 +1,9 @@
-#+TITLE: Report on Virtual Labs 4th Integration workshop on Virtual Labs College Cloud Edition 
+#+TITLE: Report on Virtual Labs 4th Integration Workshop on Virtual Labs College Cloud Edition 
 #+AUTHOR: VLEAD, IIIT-Hyderabd
 #+DATE: [2017-03-20 Mon]
 #+PROPERTY: results output
 #+PROPERTY: exports code
-#+SETUPFILE: ../org-templates/level-1.org
+#+SETUPFILE: ./org-templates/level-0.org
 #+options: ^:nil
 #+LATEX: Literal LaTeX code for export
 
@@ -82,21 +82,9 @@
    
 * Objectives of the Workshop
   Objectives of the workshop were to -
-  + Understand and follow the installation process and usage of the
-    Virtual Labs College Cloud Edition.
-  + Assist the Nodal Coordinators in conducting workshops using
-    Virtual Labs College Cloud Edition.
- 
-    
-* Post Workshop Expectations
-** Expectations from Participants 
-   + At least two workshops conducted using College Cloud Edition
-     before April review meet.
-   + Provide workshop feedback report on Outreach Portal.
-** Expectations from VLEAD
-   + Support the Outreach/Nodal Coordinators/System Engineers
-     pre/during/post workshops.
-  
+  + Understand, install and use Virtual Labs College Cloud Edition.
+  + Get trained to assist the Nodal Coordinators in conducting
+    workshops using Virtual Labs College Cloud Edition.
 
 * Summary of the Workshop
 ** First Day : March 15, 2017
@@ -105,7 +93,6 @@
     + Participants were requested to fill in their names and other
       details in the registration form.
     + Participants were given a handout along with the agenda of the workshop.
-
 
 *** Welcome Address by Professor Venkatesh Choppella ( 10:00 AM to 10:20 AM )
     A welcome message and introduction was given by Professor
@@ -265,6 +252,16 @@
       and were requested to return it during the April 2017 review
       meeting.
    
+
+* Post Workshop Expectations
+** Expectations from Participants 
+   + At least two workshops conducted using College Cloud Edition
+     before April review meet.
+   + Provide workshop feedback report on Outreach Portal.
+** Expectations from VLEAD
+   + Support the Outreach/Nodal Coordinators/System Engineers
+     pre/during/post workshops.
+  
       
 * Feedback from participants on the Virtual Labs 4th Integration Workshop : College Cloud Edition 
   Based on the feedback submitted using google form, following are the inferences - 
@@ -347,7 +344,7 @@
   + Each session in the agenda was followed as per schedule.
   + Participants were able to perform hands-on and use the
     installation manual effectively.
-  + There was good interaction between participants and VLEAD.
+  + Interaction between participants and VLEAD was productive.
   
     
 * Things that went wrong
