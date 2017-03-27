@@ -319,9 +319,9 @@ supporting any issues arising during the deployment and use.
     + =100 %= of the paricipants gave a score of =4/5= and =5/5= (In command of the subject)
 
   + Q :: The duration of the workshop was 
-    + =82.4 %= of the participants said it as =Right duration=
-    + =11.8 %= of the participants said it as =Too long=
-    + =05.9 %= of the participants said it as =Too short=
+    + =82.4 %= of the participants said it was =Right duration=
+    + =11.8 %= of the participants said it was =Too long=
+    + =05.9 %= of the participants said it was =Too short=
      
   + Q :: All the details needed for the implementation were provided 
     + =94.1 %= felt that all the details for implementation were provided. (very well)
