@@ -7,6 +7,30 @@
 #+options: ^:nil
 #+LATEX: Literal LaTeX code for export
 
+* Overview 
+In order to ensure availability of Virtual Lab experiments to all
+those colleges and students who have poor internet connectivity, VLEAD
+developed the College Cloud Edition of the Virtual Labs.  This version
+has been piloted and tested by VLEAD engineers. The methodology,
+operating process and the method of using this edition has been made
+available to the Outreach members, Nodal Center representatives and
+participating colleges.  
+
+The 4th Integration Workshop on Virtual Labs College Cloud Edition,
+detailed in the report below was conducted by the VLEAD team to
+train,give hands on deployment experience and to handover copies of
+the College Cloud Edition drives. Healthy and open interactions among
+the participants from various institutes of the consortium helped give
+a clear understanding and build confidence in the teams be able to
+effectively deploy and use the College Cloud Edition in the workshops
+conducted by them. The feedback from the participants was good and
+positive.
+ 
+The participating teams will conduct at least 2 workshops and share
+the feedback along with their own experience of using the College
+Cloud edition. VLEAD team will be available to them real time for
+supporting any issues arising during the deployment and use.
+
 
 * Workshop Details 
   + Venue : IIIT Hyderabad 
@@ -52,10 +76,7 @@
    |  17. | Ms. Swati             | NIT Surathkal                 | Junior Researh Fellow |
    |------+-----------------------+-------------------------------+-----------------------|
    
-   
-
-  
-   
+      
 ** VLEAD Team who conducted the workshop
    |------+------------------------+-------------------------------|
    | S.No | Name                   | Designation                   |
@@ -79,7 +100,6 @@
    |  10. | Mr. Lalit Mohan        | VLEAD Integration Coordinator |
    |------+------------------------+-------------------------------|
    
-
    
 * Objectives of the Workshop
   Objectives of the workshop were to -
@@ -348,11 +368,9 @@
     installation manual effectively.
   + Interaction between participants and VLEAD was productive.
   
-    
 * Things that went wrong
   + Hands-on was slow and more machines would have helped.
       
-
 * Post workshop activities and Expectations
   + Participants have been trained on installing and using Virtual Labs
     College Cloud Edition.
@@ -370,8 +388,6 @@
   + Expectations from VLEAD ::
     + Support the Outreach/Nodal Coordinators/System Engineers
       pre/during/post workshops.
-
-
 
 * Photographs 
   [[https://drive.google.com/open?id=0B_TJToQnEM4tZUNmam1IbVJ1NDA][Photographs - Virtual Labs 4th Integration Workshop]]
