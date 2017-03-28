@@ -116,6 +116,7 @@ supporting any issues arising during the deployment and use.
       details in the registration form.
     + Participants were given a handout along with the agenda of the workshop.
 
+
 *** Welcome Address by Professor Venkatesh Choppella ( 10:00 AM to 10:20 AM )
     A welcome message and introduction was given by Professor
     Choppella. 
@@ -188,7 +189,7 @@ supporting any issues arising during the deployment and use.
       links available on it.      
     + Explained the role of Sys-admin and Workshop coordinator.
     + Team helped partipants to connect back to internet.
-    + Q & A session ::
+**** Question and Answer session 
       + Question 1 ::  Whether any plugins need to be installed for
                       running a lab in College cloud ?
       + Answer 1 :: Lab dependencies remains same as in the online version and 
@@ -231,7 +232,8 @@ supporting any issues arising during the deployment and use.
       Documents -> Common= containing all the shared documents.
     + Introduced Teacher's community and encouraged eveyone to
       join and post.
-    + Question by IIT Delhi ::
+
+**** Question and Answer Session
       + When someone filled up the expression of interest and sends it
         to IIIT-H, how does individual institute know it.
       + Answered by Mr. Lalit- Workshop request and mapping Report in Excel
@@ -242,7 +244,7 @@ supporting any issues arising during the deployment and use.
 
 *** Tea Break ( 4:00 PM to 4:15 PM )
 
-
+    
 *** Using College Cloud Edition for Workshops by Mr. Sripathi ( 4:20 PM to 5:05 PM )
     + Introduced the Outreach Portal and its user manual.
     + Gave a demo on How to create an Offline workshop in Outreach Portal. 
@@ -368,15 +370,17 @@ supporting any issues arising during the deployment and use.
     installation manual effectively.
   + Interaction between participants and VLEAD was productive.
   
+
 * Things that went wrong
   + Hands-on was slow and more machines would have helped.
       
+
 * Post workshop activities and Expectations
   + Participants have been trained on installing and using Virtual Labs
     College Cloud Edition.
   + They would be able to assist the Nodal Coordinators in conducting
     workshops using Virtual Labs College Cloud Edition.
-  + Expectations from participants ::
+** Expectations from participants 
     + At least two workshops conducted using College Cloud Edition
       before April review meet.
     + Provide workshop feedback report on Outreach Portal.
@@ -385,9 +389,10 @@ supporting any issues arising during the deployment and use.
       and using Virtual Labs College Cloud Edition.
     + Workshop participants to assist the Nodal Coordinators in conducting Virtual Labs
        workshops using Virtual Labs College Cloud Edition.
-  + Expectations from VLEAD ::
+** Expectations from VLEAD 
     + Support the Outreach/Nodal Coordinators/System Engineers
       pre/during/post workshops.
+
 
 * Photographs 
   [[https://drive.google.com/open?id=0B_TJToQnEM4tZUNmam1IbVJ1NDA][Photographs - Virtual Labs 4th Integration Workshop]]
