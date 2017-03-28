@@ -289,7 +289,7 @@ supporting any issues arising during the deployment and use.
       
 * Feedback from participants on the Virtual Labs 4th Integration Workshop : College Cloud Edition 
   Based on the feedback submitted using google form, following are the inferences - 
-  + All 17 participants submitted the feedback form.
+  All 17 participants submitted the feedback form.
   + Q :: The workshop covered what was stated in the announcement 
     + =64.7 %= of the participants gave a score of =5/5= (Completely)
     + =35.3 %= of the participants gave a score of =4/5=
